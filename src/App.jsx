@@ -187,7 +187,7 @@ const App = () => {
     return (
       <div className="landing">
         <h1>Welcome to MusicDAO</h1>
-        <button onClick={() => connectWallet("injected")} className="btn-hero">Connect Wallet</button>)
+        <button onClick={() => connectWallet("injected")} className="btn-hero">Connect Wallet</button>
       </div>
     );
   }
